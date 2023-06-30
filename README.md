@@ -1,0 +1,1 @@
+# TypyDanych(2.4)
